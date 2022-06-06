@@ -2,27 +2,45 @@
   "clientSchemaVersion": 1,
   "serverSchemaVersion": 4,
   "pageOrder": [
-    "Page1"
+    "crudpage_1",
+    "crudpage_1 Copy"
   ],
   "publishedPageOrder": [
-    "Page1"
+    "crudpage_1",
+    "crudpage_1 Copy"
   ],
-  "publishedDefaultPageName": "Page1",
-  "unpublishedDefaultPageName": "Page1",
+  "publishedDefaultPageName": "crudpage_1",
+  "unpublishedDefaultPageName": "crudpage_1",
   "invisibleActionFields": {
-    "Page1_DeleteQuery": {
+    "crudpage_1 Copy_DeleteQuery": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
-    "Page1_InsertQuery": {
+    "crudpage_1 Copy_InsertQuery": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
-    "Page1_SelectQuery": {
+    "crudpage_1 Copy_SelectQuery": {
       "unpublishedUserSetOnLoad": true,
       "publishedUserSetOnLoad": true
     },
-    "Page1_UpdateQuery": {
+    "crudpage_1 Copy_UpdateQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "crudpage_1_DeleteQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "crudpage_1_InsertQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "crudpage_1_SelectQuery": {
+      "unpublishedUserSetOnLoad": true,
+      "publishedUserSetOnLoad": true
+    },
+    "crudpage_1_UpdateQuery": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     }
